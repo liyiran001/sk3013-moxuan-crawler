@@ -1,0 +1,84 @@
+{
+ "events": [
+  {
+   "step": "login",
+   "attempt": 1,
+   "captcha": "Y7W8",
+   "success": true,
+   "error": ""
+  },
+  {
+   "step": "login_success",
+   "url": "http://127.0.0.1:5000/list",
+   "total": "320",
+   "pages": "32"
+  },
+  {
+   "step": "page_done",
+   "page": 1,
+   "count": 10,
+   "cumulative": 10
+  },
+  {
+   "step": "page_done",
+   "page": 2,
+   "count": 10,
+   "cumulative": 20
+  },
+  {
+   "step": "page_done",
+   "page": 3,
+   "count": 10,
+   "cumulative": 30
+  },
+  {
+   "step": "page_done",
+   "page": 4,
+   "count": 10,
+   "cumulative": 40
+  },
+  {
+   "step": "page_done",
+   "page": 5,
+   "count": 10,
+   "cumulative": 50
+  },
+  {
+   "step": "page_done",
+   "page": 6,
+   "count": 10,
+   "cumulative": 60
+  },
+  {
+   "step": "page_done",
+   "page": 7,
+   "count": 10,
+   "cumulative": 70
+  },
+  {
+   "step": "page_done",
+   "page": 8,
+   "count": 10,
+   "cumulative": 80
+  },
+  {
+   "step": "page_done",
+   "page": 9,
+   "count": 10,
+   "cumulative": 90
+  },
+  {
+   "step": "page_done",
+   "page": 10,
+   "count": 10,
+   "cumulative": 100
+  }
+ ],
+ "elapsed_sec": 41.9,
+ "captcha": [
+  [
+   "Y7W8",
+   true
+  ]
+ ]
+}

@@ -1,0 +1,132 @@
+P000 style=Normal align=None ind=None/None spacing=None/None
+   run0 '' font=None size=None bold=None underline=None eastasia=None
+P001 style=Normal align=RIGHT (2) ind=None/None spacing=None/None
+   run0 '                                                ' font=None size=None bold=None underline=None eastasia=None
+   run1 '  实验报告封面' font=黑体 size=12.0 bold=True underline=None eastasia=黑体
+P002 style=Normal align=None ind=None/None spacing=None/None
+P003 style=Normal align=None ind=None/None spacing=1.5/None
+P004 style=Normal align=None ind=None/None spacing=1.5/None
+   run0 '课程名称： ' font=黑体 size=15.0 bold=True underline=None eastasia=黑体
+   run1 '  ' font=宋体 size=15.0 bold=True underline=True eastasia=None
+   run2 'Python网络爬虫技术   ' font=黑体 size=15.0 bold=True underline=True eastasia=黑体
+   run3 '课程代码：' font=黑体 size=15.0 bold=True underline=None eastasia=黑体
+   run4 ' SK3013     ' font=黑体 size=15.0 bold=True underline=True eastasia=黑体
+P005 style=Normal align=None ind=None/None spacing=1.5/None
+   run0 '任课老师：' font=黑体 size=15.0 bold=True underline=None eastasia=黑体
+   run1 '   陈广豪        ' font=黑体 size=15.0 bold=True underline=True eastasia=黑体
+   run2 '  实验指导老师:' font=黑体 size=15.0 bold=True underline=None eastasia=黑体
+   run3 '   陈广豪            ' font=黑体 size=15.0 bold=True underline=True eastasia=黑体
+P006 style=Heading 1 align=None ind=-266700/266700 spacing=None/None
+   run0 '实验报告名称：' font=None size=None bold=None underline=None eastasia=None
+   run1 '  课程设计  ' font=None size=20.0 bold=None underline=True eastasia=None
+   run2 ' ' font=None size=14.0 bold=None underline=True eastasia=None
+   run3 '    ' font=None size=16.0 bold=None underline=True eastasia=None
+   run4 '  ' font=None size=16.0 bold=None underline=True eastasia=None
+P007 style=Normal align=None ind=-266065/-635 spacing=None/None
+P008 style=Normal align=RIGHT (2) ind=None/None spacing=None/None
+   run0 '    ' font=黑体 size=22.0 bold=True underline=None eastasia=黑体
+   run1 '学生姓名：' font=黑体 size=14.0 bold=None underline=None eastasia=黑体
+   run2 '                     ' font=黑体 size=14.0 bold=None underline=True eastasia=黑体
+P009 style=Normal align=RIGHT (2) ind=None/None spacing=None/None
+   run0 '          学号：' font=黑体 size=14.0 bold=None underline=None eastasia=黑体
+   run1 '                     ' font=黑体 size=14.0 bold=None underline=True eastasia=黑体
+P010 style=Normal align=RIGHT (2) ind=None/None spacing=None/None
+   run0 '        教学班：' font=黑体 size=14.0 bold=None underline=None eastasia=黑体
+   run1 '                      ' font=黑体 size=14.0 bold=None underline=True eastasia=黑体
+P011 style=Normal align=RIGHT (2) ind=None/None spacing=None/None
+   run0 '      递交日期：' font=黑体 size=14.0 bold=None underline=None eastasia=黑体
+   run1 '                      ' font=黑体 size=14.0 bold=None underline=True eastasia=黑体
+P012 style=Normal align=RIGHT (2) ind=711200/None spacing=None/None
+   run0 '    签收人：' font=黑体 size=14.0 bold=None underline=None eastasia=黑体
+   run1 '      陈广豪           ' font=黑体 size=14.0 bold=None underline=True eastasia=黑体
+   run2 ' ' font=黑体 size=14.0 bold=None underline=None eastasia=黑体
+P013 style=Normal align=None ind=-532130/-1270 spacing=None/None
+P014 style=Normal align=None ind=-391795/None spacing=None/None
+P015 style=Normal align=None ind=-391795/None spacing=None/None
+   run0 '我申明，本报告内的实验已按要求完成，报告完全是由我个人完成，并没有抄袭行为。我已经保留了这份实验报告的副本。' font=新宋体 size=9.0 bold=None underline=None eastasia=新宋体
+P016 style=Normal align=None ind=-391795/None spacing=None/None
+P017 style=Normal align=None ind=-391795/None spacing=None/None
+   run0 '                                                            ' font=新宋体 size=9.0 bold=None underline=None eastasia=新宋体
+P018 style=Normal align=None ind=-391795/None spacing=None/None
+   run0 '                                                            ' font=新宋体 size=9.0 bold=None underline=None eastasia=新宋体
+P019 style=Normal align=None ind=-391795/None spacing=None/None
+P020 style=Normal align=None ind=-368935/263525 spacing=None/None
+   run0 '实验报告评语与评分：' font=黑体 size=15.0 bold=True underline=None eastasia=黑体
+P021 style=Normal align=None ind=93980/261620 spacing=None/None
+P022 style=Normal align=None ind=2767330/261620 spacing=None/None
+   run0 '评阅老师签名：' font=黑体 size=15.0 bold=True underline=None eastasia=黑体
+P023 style=Normal align=None ind=None/None spacing=None/None
+   run0 '' font=宋体 size=12.0 bold=True underline=None eastasia=None
+   run1 '课程名称：Python网络爬虫技术' font=黑体 size=14.0 bold=None underline=None eastasia=黑体
+P024 style=Normal (Web) align=None ind=None/None spacing=279400/0
+   run0 '实验日期：' font=黑体 size=14.0 bold=None underline=None eastasia=黑体
+P025 style=Normal (Web) align=None ind=None/None spacing=279400/0
+   run0 '实验目的：' font=黑体 size=14.0 bold=None underline=None eastasia=黑体
+P026 style=Normal align=None ind=304800/None spacing=1.5/None
+   run0 '本课程设计以课程组自建的模拟站点' font=None size=12.0 bold=None underline=None eastasia=None
+   run1 '"墨轩书城"（教学沙箱）' font=None size=12.0 bold=True underline=None eastasia=None
+   run2 '为目标站点，要求学生综合运用课程所学，完成一次带反爬对抗的完整数据采集。通过本设计，学生应能：' font=None size=12.0 bold=None underline=None eastasia=None
+P027 style=Normal align=None ind=306070/None spacing=1.5/None
+   run0 '综合运用 requests/Selenium/Scrapy 三类采集技术' font=None size=12.0 bold=True underline=None eastasia=None
+   run1 '，独立设计"请求→解析→并发→存储"的完整采集流水线；' font=None size=12.0 bold=None underline=None eastasia=None
+P028 style=Normal align=None ind=306070/None spacing=1.5/None
+   run0 '掌握模拟登录全流程' font=None size=12.0 bold=True underline=None eastasia=None
+   run1 '：表单提交、Cookie/Session 会话保持、图形验证码的获取与识别（PIL 预处理 + OCR 或打码平台均可）' font=None size=12.0 bold=None underline=None eastasia=None
+P029 style=Normal align=None ind=306070/None spacing=1.5/None
+   run0 '能分析动态渲染页面' font=None size=12.0 bold=True underline=None eastasia=None
+   run1 '，定位前端数据接口，正确处理分页、请求头伪装与采集频率限制；' font=None size=12.0 bold=None underline=None eastasia=None
+P056 style=Normal align=None ind=None/None spacing=None/None
+   run0 '一、报告正文（以下为评分项，请逐项填写）：' font=None size=10.5 bold=True underline=None eastasia=None
+P057 style=Normal (Web) align=None ind=None/None spacing=1.2/0
+P058 style=Normal align=None ind=None/None spacing=None/None
+   run0 '1、' font=宋体 size=None bold=True underline=None eastasia=None
+   run1 '目标站点分析与采集方案设计（六关卡反爬机制分析、技术路线选型对比与理由）' font=宋体 size=None bold=True underline=None eastasia=None
+P064 style=Normal align=None ind=None/None spacing=None/None
+   run0 '二、代码提交说明（必填）：' font=None size=10.5 bold=True underline=None eastasia=None
+P065 style=Normal align=None ind=None/None spacing=None/None
+   run0 '代码提交方式（二选一，勾选并在其后填写）：' font=None size=10.5 bold=None underline=None eastasia=None
+P066 style=Normal align=None ind=None/None spacing=None/None
+   run0 '□ A. Git 仓库链接（GitHub 或 Gitee，私有仓库需开放访问权限）：' font=None size=10.5 bold=None underline=None eastasia=None
+P067 style=Normal align=None ind=None/None spacing=None/None
+   run0 '□ B. 代码打包 zip（文件名：学号-姓名.zip，内含 README 与 requirements.txt）：' font=Times New Roman size=10.5 bold=None underline=None eastasia=宋体
+margins L3.17 R3.17 T2.54 B2.54 cm
+page width cm 21.00086111111111
+TBL0 style=Normal Table align=None width=<w:tblPr xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" 
+   cell width=5264785
+   cellp style=Normal align=None first=None spacing=None text=''
+   cellp style=Normal align=None first=None spacing=None text=''
+   cellp style=Normal align=None first=None spacing=None text=''
+   cellp style=Normal align=None first=None spacing=None text=''
+   cellp style=Normal align=None first=None spacing=None text=''
+   cellp style=Normal align=None first=None spacing=None text=''
+   cellp style=Normal align=None first=None spacing=None text=''
+   cellp style=Normal align=None first=None spacing=None text=''
+TBL1 style=Normal Table align=None width=<w:tblPr xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" 
+   cell width=5264785
+   cellp style=Normal align=None first=None spacing=None text=''
+   cellp style=Normal align=None first=None spacing=None text=''
+   cellp style=Normal align=None first=None spacing=None text=''
+   cellp style=Normal align=None first=None spacing=None text=''
+   cellp style=Normal align=None first=None spacing=None text=''
+   cellp style=Normal align=None first=None spacing=None text=''
+   cellp style=Normal align=None first=None spacing=None text=''
+   cellp style=Normal align=None first=None spacing=None text=''
+   cellp style=Normal align=None first=None spacing=None text=''
+   cellp style=Normal align=None first=None spacing=None text=''
+   cellp style=Normal align=None first=None spacing=None text=''
+   cellp style=Normal align=None first=None spacing=None text=''
+   cellp style=Normal align=None first=None spacing=None text=''
+TBL2 style=Normal Table align=None width=<w:tblPr xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" 
+   cell width=5264785
+   cellp style=Normal align=None first=None spacing=None text=''
+   cellp style=Normal align=None first=None spacing=None text=''
+   cellp style=Normal align=None first=None spacing=None text=''
+   cellp style=Normal align=None first=None spacing=None text=''
+   cellp style=Normal align=None first=None spacing=None text=''
+   cellp style=Normal align=None first=None spacing=None text=''
+   cellp style=Normal align=None first=None spacing=None text=''
+   cellp style=Normal align=None first=None spacing=None text=''
+   cellp style=Normal align=None first=None spacing=None text=''
+   cellp style=Normal align=None first=None spacing=None text=''
+   cellp style=Normal align=None first=None spacing=None text=''
+   cellp style=Normal align=None first=None spacing=None text=''

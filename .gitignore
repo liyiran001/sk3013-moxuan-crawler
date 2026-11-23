@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 运行产物（可按需保留）
+*.log
+!logs/*.log
+*.tmp
+*.bak
+
+# 数据缓存
+.cache/
+.pytest_cache/
+.mypy_cache/
+
+# 大文件与本地环境
+*.zip
+*.7z
+*.rar
+node_modules/
